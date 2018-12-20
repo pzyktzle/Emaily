@@ -1,6 +1,6 @@
 # Emaily
 
-Email Campaign app.
+Email Marketing Campaign Platform (with credit card payments)
 
 ### Notes
 
